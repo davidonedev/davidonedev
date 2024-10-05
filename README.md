@@ -38,8 +38,6 @@
 
 ###
 
-![Snake animation](https://github.com/davidonedev/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <div align="center">
