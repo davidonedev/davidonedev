@@ -38,7 +38,7 @@
 
 ###
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/davidonedev/davidonedev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
