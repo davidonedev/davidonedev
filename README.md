@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m starting my journey in the world of programming and I am currently a student of Systems Analysis and Development. I expect to complete my degree by December 2025.<br><br>At the moment, I’m interning at Bosch Brazil, one of the largest companies in the world in the fields of technology and innovation. This experience has been essential for my professional development, providing me the opportunity to apply and expand my knowledge in technology.<br><br>
+<p align="left">I’m starting my journey in the world of programming and I am currently a student of Systems Analysis and Development. <br><br>At the moment, I’m interning at Bosch Brazil, one of the largest companies in the world in the fields of technology and innovation. This experience has been essential for my professional development, providing me the opportunity to apply and expand my knowledge in technology.<br><br>
   
   <details>
     <summary>👨‍💻More About</summary>
