@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Atualmente, sou desenvolvedor front-end e UX/UI Designer, atuando como estagiário na Bosch, onde contribuo para a criação de interfaces modernas e responsivas, sempre focando na melhor experiência do usuário.  <br><br>Tenho experiência em design utilizando Figma e Photoshop, além de trabalhar com tecnologias como HTML, CSS, JavaScript, React, TypeScript e TailwindCSS.  <br><br>Sou estudante de Desenvolvimento de Sistemas, com previsão de conclusão para o final de 2025. Meu objetivo é continuar evoluindo na área e, após a graduação, realizar uma pós-graduação para aprofundar ainda mais meus conhecimentos.<br><br>Estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.</h4>
+<h4 align="left">Atualmente, sou desenvolvedor front-end e UX/UI Designer, onde contribuo para a criação de interfaces modernas e responsivas, sempre focando na melhor experiência do usuário.  <br><br>Tenho experiência em design utilizando Figma e Photoshop, além de trabalhar com tecnologias como HTML, CSS, JavaScript, React, TypeScript e TailwindCSS.  <br><br>Sou estudante de Desenvolvimento de Sistemas, com previsão de conclusão para o final de 2025. Meu objetivo é continuar evoluindo na área e, após a graduação, realizar uma pós-graduação para aprofundar ainda mais meus conhecimentos.<br><br>Estou sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.</h4>
 
 ###
 
