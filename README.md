@@ -14,6 +14,45 @@ I’m currently studying **Prompt Engineering, AI Engineering, and AI-powered ap
 
 ---
 
+
+## 💼 Professional Experience / Selected Work
+
+## Smart Locker System
+
+**Smart Locker** is a web-based administrative platform designed to centralize the management and operation of smart lockers. Built with **React, TypeScript, and Vite**, the application is used by internal teams to monitor dashboards, manage lockers and devices, handle tickets, alerts, and other system operations.
+
+In this project, I worked on the **development and evolution of the front end**, implementing new features, UI improvements, bug fixes, and business rules. I also worked with **REST API integration and consumption**, testing and validating endpoints through **Swagger** before integrating them into the application.
+
+I also contributed to the technical validation of deliveries through **build tests and unit tests with Jest**, helping improve the quality, stability, and reliability of the application.
+
+This project strengthened my experience with **React, TypeScript, API integration, authentication and permissions, testing, business rules, and enterprise application development**.
+
+
+---
+
+
+## DriveB Brasil
+
+**DriveB** is a Bosch platform focused on fleet management, and its website serves as the main institutional and **commercial channel for the solution in Brazil**.
+
+The project was **developed end-to-end**, starting with the gathering, organization, and definition of requirements, features, and business rules in Miro, followed by the complete design and implementation of the digital experience.
+
+Based on these requirements, I designed the entire user interface from scratch in Figma, including the Design System, reusable components, visual standards, and page structure.
+
+I was also **responsible for the complete frontend development**, using React, TypeScript, and Vite, as well as **implementing the required API integrations** and data consumption to connect the application with the project's services.
+
+The project therefore covered the full digital product development lifecycle, including requirements gathering, UX/UI Design, visual architecture, frontend development, and API integration.
+
+## Live project
+
+The website is publicly available:
+
+[**Visit DriveB Brazil**](https://driveb.com.br/)
+
+
+---
+
+
 ## 🌐 Connect with me
 
 <p align="left">
