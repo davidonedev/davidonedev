@@ -1,61 +1,97 @@
-<div align="center">
+# Hi 👋, I'm David Alves
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1120,50:065F46,100:10B981&text=Desenvolvedor%20Frontend&fontSize=40&fontColor=FFFFFF&fontAlignY=34&desc=David%20Alves&descAlignY=54&descSize=18&animation=fadeIn" alt="" />
+🚀 **Software Developer | React • TypeScript • UI/UX • AI-Assisted Development**  
+🇧🇷 Brazil | ♿ PwD
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=620&lines=React+%2B+TypeScript+%2B+Vite;Interfaces+r%C3%A1pidas%2C+test%C3%A1veis+e+acess%C3%ADveis;Do+prot%C3%B3tipo+no+Figma+ao+deploy+em+produ%C3%A7%C3%A3o" alt="" />
-</a>
+I develop **digital solutions and enterprise applications**, combining software development with a strong focus on **user experience, clean code, and maintainable solutions**.
 
-<br />
+My experience includes **React, TypeScript, API integrations, authentication, dashboards, and UI/UX**, working closely with real business requirements and complex corporate environments.
 
-<a href="https://www.linkedin.com/in/david-alvesads/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" />
-</a>
-<a href="mailto:david.amc18@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-0B1120?style=for-the-badge&logo=gmail&logoColor=10B981" alt="E-mail" />
-</a>
-<a href="https://SEU-PORTFOLIO.com.br">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=10B981" alt="Portfólio" />
-</a>
+I’m currently expanding my skills toward **full-stack development**, strengthening my knowledge across both front-end and back-end technologies while using **Artificial Intelligence as a learning, productivity, and problem-solving tool**.
 
-</div>
+I’m currently studying **Prompt Engineering, AI Engineering, and AI-powered applications**, exploring how these technologies can improve products, development workflows, and the way we build software.
 
-<br />
 
-## `01` Sobre
+---
 
-```ts
-const david = {
-  cargo:       "Desenvolvedor Frontend",
-  stack:       ["React", "TypeScript", "Vite", "Material UI"],
-  tema:        "dark", // não é negociável
-  bugs:        0, // segundo o SonarQube, e eu escolho acreditar
-  desenhaTambém: true, // Figma antes do VS Code
-  responder: (vaga) =>
-    vaga.remoto ? "bora conversar ☕" : "ainda podemos conversar",
-};
-```
+## 🌐 Connect with me
 
-Construo aplicações web com **React**, **TypeScript** e **Vite**. Hoje atuo na **Bosch Brasil** em projeto de Pesquisa, Desenvolvimento e Inovação, com foco em integração de APIs REST, testes automatizados e qualidade de código.
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-alvesads/">
+    <img src="https://img.shields.io/badge/LinkedIn-David_Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<br />
+  <a href="mailto:david.amc18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-## `02` Stack
+  <a href="https://github.com/davidonedev">
+   <img src="https://img.shields.io/badge/GitHub-DAVIDONEDEV-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+---
 
-**Core**
+## 🧠 What I do
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css&theme=dark" alt="" />
+* 💻 Systems Development & Digital Solutions
+* ⚡ Web Performance & Optimization
+* 🧩 Component Architecture & Design Systems
+* 🔐 Authentication & API Integration
+* 🤖 AI-Assisted Development
+* 🛠️ Business Requirements & Software Solutions
+* 📊 Dashboards & Enterprise Applications
+* 🚀 PoCs, Product Discovery & UX Collaboration
 
-**UI e Estilização**
+---
 
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,figma&theme=dark" alt="" />
+## 🛠️ Tech Stack
 
-**Entrega**
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=git,github,azure&theme=dark" alt="" />
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
-</div>
+### AI & Automation
 
-<br />
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
+![AI Assisted Development](https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge)
+
+### DevOps & Tools
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+### Methodologies & Practices
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+### Currently Learning
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidonedev&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidonedev&theme=tokyonight" />
+</p>
+
+
+---
+
+🤝 Always open to collaborations, partnerships, and cool ideas
