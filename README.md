@@ -11,9 +11,38 @@ I’m currently expanding my skills toward **full-stack development**, strengthe
 
 I’m currently studying **Prompt Engineering, AI Engineering, and AI-powered applications**, exploring how these technologies can improve products, development workflows, and the way we build software.
 
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-alvesads/">
+    <img src="https://img.shields.io/badge/LinkedIn-David_Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:david.amc18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/davidonedev">
+   <img src="https://img.shields.io/badge/GitHub-DAVIDONEDEV-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+## 🧠 What I do
+
+* 💻 Systems Development & Digital Solutions
+* ⚡ Web Performance & Optimization
+* 🧩 Component Architecture & Design Systems
+* 🔐 Authentication & API Integration
+* 🤖 AI-Assisted Development
+* 🛠️ Business Requirements & Software Solutions
+* 📊 Dashboards & Enterprise Applications
+* 🚀 PoCs, Product Discovery & UX Collaboration
+
+---
 
 ## 💼 Professional Experience / Selected Work
 
@@ -49,38 +78,6 @@ The website is publicly available:
 
 [**Visit DriveB Brazil**](https://driveb.com.br/)
 
-
----
-
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/david-alvesads/">
-    <img src="https://img.shields.io/badge/LinkedIn-David_Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:david.amc18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/davidonedev">
-   <img src="https://img.shields.io/badge/GitHub-DAVIDONEDEV-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧠 What I do
-
-* 💻 Systems Development & Digital Solutions
-* ⚡ Web Performance & Optimization
-* 🧩 Component Architecture & Design Systems
-* 🔐 Authentication & API Integration
-* 🤖 AI-Assisted Development
-* 🛠️ Business Requirements & Software Solutions
-* 📊 Dashboards & Enterprise Applications
-* 🚀 PoCs, Product Discovery & UX Collaboration
 
 ---
 
