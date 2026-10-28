@@ -1,15 +1,23 @@
-# Hi 👋, I'm David Alves
+# Olá 👋, eu sou o David Alves
 
-🚀 **Software Developer | React • TypeScript • UI/UX • AI-Assisted Development**  
-🇧🇷 Brazil | ♿ PwD
+🚀 **Desenvolvedor de Software | React • TypeScript • APIs REST • Azure DevOps • UI/UX • IA**  
+🇧🇷 Brasil | ♿ PcD | 💼 Desenvolvedor de Software na Bosch Brasil
 
-I develop **digital solutions and enterprise applications**, combining software development with a strong focus on **user experience, clean code, and maintainable solutions**.
+Desenvolvo **aplicações web e soluções corporativas** com foco em **experiência do usuário, código limpo e software de fácil manutenção**.
 
-My experience includes **React, TypeScript, API integrations, authentication, dashboards, and UI/UX**, working closely with real business requirements and complex corporate environments.
+### 💻 O que eu faço
+- Projeto, desenvolvo e testo componentes com **React e TypeScript**, usando testes unitários com **Vitest** e **Testing Library**
+- Integro aplicações front-end a **APIs REST** documentadas no **Swagger/OpenAPI**
+- Construí uma **biblioteca de componentes reutilizáveis** alinhada a um **Design System** corporativo
+- Contribuo para **pipelines de CI/CD no Azure DevOps** (builds, validações e deploys), com análise de qualidade de código no **SonarQube**
+- Transformo protótipos e jornadas do usuário do **Figma** em interfaces funcionais
+- Desenvolvo **automações e POCs com IA** para reduzir tarefas manuais e validar novas ideias
 
-I’m currently expanding my skills toward **full-stack development**, strengthening my knowledge across both front-end and back-end technologies while using **Artificial Intelligence as a learning, productivity, and problem-solving tool**.
+### 🔧 Back-end e DevOps
+Também atuo no back-end, desenvolvendo aplicações de ponta a ponta com **APIs REST, PostgreSQL, Docker e Linux (Ubuntu)**, e sigo evoluindo como **desenvolvedor full stack**.
 
-I’m currently studying **Prompt Engineering, AI Engineering, and AI-powered applications**, exploring how these technologies can improve products, development workflows, and the way we build software.
+### 🤖 Estudando atualmente
+**AI Engineering, Engenharia de Prompt e aplicações com IA**, explorando como a IA pode melhorar produtos, fluxos de desenvolvimento e a forma como construímos software.
 
 ---
 
@@ -81,42 +89,70 @@ The website is publicly available:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-### Frontend
+### Front-end
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
 
-### AI & Automation
+### Back-end e dados
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
-![AI Assisted Development](https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
-### DevOps & Tools
+### Testes e qualidade
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### DevOps e ferramentas
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Methodologies & Practices
+### UI/UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Design System](https://img.shields.io/badge/Design_System-6C5CE7?style=for-the-badge)
+
+### IA e automação
+
+![Generative AI](https://img.shields.io/badge/IA_Generativa-FF6F00?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/Automações_e_POCs_com_IA-412991?style=for-the-badge)
+![AI Assisted Development](https://img.shields.io/badge/Desenvolvimento_assistido_por_IA-412991?style=for-the-badge)
+
+### Metodologias
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-### Currently Learning
+### Estudando atualmente
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![AI Engineering](https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
+
+---
 
 ---
 
